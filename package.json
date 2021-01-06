@@ -173,7 +173,7 @@
     "@babel/runtime": "^7.9.2",
     "@panter/vue-i18next": "^0.15.2",
     "aria2": "^4.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "blob-util": "^2.0.2",
     "clipboard-polyfill": "^2.8.6",
     "electron-debug": "^3.0.1",
